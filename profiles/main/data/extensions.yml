@@ -1,0 +1,152 @@
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
+  - id: akosyakov.gitpod-monitor
+    uuid: fca53de4-3d5e-4285-887b-e520c9a18445
+  - id: Angular.ng-template
+    uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
+  - id: antfu.icons-carbon
+    uuid: 659a35e1-7b7f-4b47-822d-0d96fd6e13e7
+  - id: apollographql.vscode-apollo
+    uuid: 33308ab6-b137-432e-85c1-696c6babd972
+  - id: astro-build.astro-vscode
+    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
+  - id: batisteo.vscode-django
+    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
+  - id: biomejs.biome
+    uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: castrogusttavo.min-theme
+    uuid: c087c5fd-19d3-440c-964e-6faaa9c0ef4b
+  - id: castrogusttavo.symbols
+    uuid: 9a91c6fa-44b1-4dea-b791-a57fde0df17c
+  - id: Chanzhaoyu.svelte-5-snippets
+    uuid: 4ab27b74-4bc3-48aa-b268-7b7461d938e9
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: codezombiech.gitignore
+    uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
+  - id: DaltonMenezes.aura-theme
+    uuid: a37a3289-9175-4409-968e-a73e43095912
+  - id: Dart-Code.dart-code
+    uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
+  - id: Dart-Code.flutter
+    uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dracula-theme.theme-dracula
+    uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: edwinhuish.better-comments-next
+    uuid: fbacb7e9-e750-49db-a1c0-d94617178938
+  - id: file-icons.file-icons
+    uuid: 43335a8d-5929-408b-874a-65f08362642c
+  - id: fivethree.vscode-svelte-snippets
+    uuid: a42d3dd1-f528-407c-a110-d5e35c7ca4c2
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: imgildev.vscode-nestjs-generator
+    uuid: 12c6ea5e-c0db-439e-b4fb-dc46f0f54371
+  - id: imgildev.vscode-nestjs-prisma-snippets
+    uuid: 83fad4f4-9c30-4ef1-afb9-75f3d181c589
+  - id: imgildev.vscode-nestjs-snippets-extension
+    uuid: 1eb3d8b5-f550-4df3-9001-bccf047b6b72
+  - id: imgildev.vscode-nestjs-swagger-snippets
+    uuid: 2a6469d2-48fa-43f0-b36c-6436149ff677
+  - id: imgildev.vscode-tailwindcss-snippets
+    uuid: 986177d1-03ad-4f59-be08-22e7960b99e7
+  - id: jeanp413.open-remote-wsl
+    uuid: 85cc8d73-323e-4b6c-8b8b-cdf0f6800249
+  - id: jmkrivocapich.drawfolderstructure
+    uuid: 2631b1a4-0c54-406b-bf85-2c58a0e327cd
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: monokai.theme-monokai-pro-vscode
+    uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
+  - id: ms-azuretools.vscode-azureresourcegroups
+    uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-playwright.playwright
+    uuid: f53b1d43-eef4-4909-99ca-56b5fa3e108c
+  - id: mvllow.rose-pine
+    uuid: 6ef63bba-e6b8-4209-b562-9a927f36ae8f
+  - id: naumovs.color-highlight
+    uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
+  - id: Nuxtr.nuxtr-vscode
+    uuid: 91f56290-03a6-4860-bd71-7f7dce888548
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: Orta.vscode-jest
+    uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
+  - id: patbenatar.advanced-new-file
+    uuid: 2cbad5ee-b4ab-4de8-a1c7-77fede846155
+  - id: piotrpalarz.vscode-gitignore-generator
+    uuid: c0c04a3d-f3cd-44ce-a9dd-61ad33504bc7
+  - id: pivaszbs.svelte-autoimport
+    uuid: 905ce110-dab5-4222-946d-b79642fcdec5
+  - id: PKief.material-product-icons
+    uuid: f797dacd-4e80-4f33-8b63-d665c0956013
+  - id: prettier.prettier-vscode
+    uuid: baa185f3-22aa-4a14-ac21-5c421de53415
+  - id: Prisma.prisma
+    uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
+  - id: Prisma.vscode-graphql
+    uuid: 4e79e18e-fdb2-4091-adfd-649e001ffe15
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: redwan-hossain.auto-rename-tag-clone
+    uuid: 0135cc2d-6819-4d20-ab0a-8146a3693334
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: steoates.autoimport
+    uuid: 70378119-1d85-4935-9733-0298c7a369a2
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: streetsidesoftware.code-spell-checker-portuguese-brazilian
+    uuid: a669e675-9cb2-48a8-983d-33a1c4ed10ef
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: waderyan.gitblame
+    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
+  - id: WallabyJs.console-ninja
+    uuid: 6a994cdf-21a5-4e80-b0a5-601acdad9bf9
+  - id: wilfriedago.vscode-symbols-icon-theme
+    uuid: 8e3599db-9a78-48f8-912c-a59ba972f7a4
+  - id: wix.vscode-import-cost
+    uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: ZubairIbnZamir.svelte-theme-v5
+    uuid: d52a2b9d-ed90-45db-9bf5-bf04cf55e5e1
